@@ -1,1 +1,1 @@
-# stikeri
+# stikers
